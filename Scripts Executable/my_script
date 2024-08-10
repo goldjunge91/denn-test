@@ -1,0 +1,4 @@
+#!/usr/bin/env -S deno run --allow-env --ext=js
+// chmod +x ./my_script
+
+console.log("Hello!");

@@ -1,0 +1,77 @@
+{
+  "$id": "https://deno.land/x/deno/cli/schemas/config-file.v1.json",
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "description": "A JSON representation of a Deno configuration file.",
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": false,
+    "inlineSourceMap": true,
+    "isolatedModules": true,
+    "jsx": "react",
+    "lib": ["deno.window", "dom.asynciterable", "deno.worker"],
+    "module": "esnext",
+    "moduleDetection": "force",
+    "strict": true,
+    "target": "esnext",
+    "useDefineForClassFields": true,
+  },
+  "tasks": {
+    "dev": "deno run --watch main.ts",
+    "start": "deno run -A --watch=static/,routes/,data/ dev.ts",
+  },
+  "lint": {
+    // only format the src/ directory
+    "include": ["src/", "src/**/*.js"],
+    // don't lint the dist/ folder
+    // don't format the "fixtures" directory,
+    // but do format "fixtures/scripts"
+    "exclude": [
+      "fixtures",
+      "!fixtures/scripts",
+      "src/testdate/",
+      "src/fixures/**/*.ts",
+    ],
+    "rules": {
+      "tags": ["recommended"],
+      "include": ["ban-untagged-todo"],
+      "exclude": ["no-unused-vars"],
+    },
+  },
+  "fmt": {
+    "useTabs": true,
+    "lineWidth": 80,
+    "indentWidth": 4,
+    "semiColons": true,
+    "singleQuote": true,
+    "proseWrap": "preserve",
+    "include": ["src/"],
+    "exclude": ["src/testdate/", "src/fixures/**/*.ts"],
+  },
+  "lock": false,
+  "noModulesDir": true,
+  "unstable": ["webgpu"],
+  "npmRegestry": "https://mycompany.net/artifactory/api/npm/virtual-npm",
+  "test": {
+    "include": ["src/"],
+    "exclude": ["src/testdata/", "src/fixtures/**/*.ts"],
+  },
+  "imports": {
+    // The dollar sign in front of "assert" isn't special - it's an optional
+    // convention to show that $assert is an alias set up in an import map
+    "$assert": "jsr:@std/assert@^1.0.0",
+    "oak": "jsr:@oak/oak",
+  },
+  "publish": {
+    "exclude": [
+      // include the .gitignored dist folder
+      "!dist/",
+    ],
+    "include": [
+      // include the .gitignored dist folder
+      "dist/",
+      "README.md",
+      "deno.json",
+    ],
+  },
+}

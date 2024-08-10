@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Dacentrurus",
+    "description": "Ein stacheliger Dinosaurier mit einem auffälligen Schwanz."
+  },
+  {
+    "name": "Daspletosaurus",
+    "description": "Ein naher Verwandter des T. rex, jedoch kleiner."
+  },
+  {
+    "name": "Deinonychus",
+    "description": "Ein schneller und wendiger Raubdinosaurier mit einer tödlichen Klaue."
+  },
+  {
+    "name": "Dilophosaurus",
+    "description": "Bekannt für seine zwei markanten Kopfkämme."
+  },
+  {
+    "name": "Diplodocus",
+    "description": "Ein langhalsiger Dinosaurier, der in Herden lebte."
+  },
+  {
+    "name": "Dracorex",
+    "description": "Ein Dinosaurier mit einem drachenartigen Kopf."
+  },
+  {
+    "name": "Dreadnoughtus",
+    "description": "Ein massiver Titanosaurier, der nicht leicht zu erschrecken war."
+  },
+  {
+    "name": "Dromaeosaurus",
+    "description": "Ein schneller Jäger mit einer sichelförmigen Klaue."
+  },
+  {
+    "name": "Dryosaurus",
+    "description": "Ein pflanzenfressender Dinosaurier, der schnell rennen konnte."
+  },
+  {
+    "name": "Edmontonia",
+    "description": "Ein gepanzerter Dinosaurier mit seitlichen Stacheln."
+  },
+  {
+    "name": "Edmontosaurus",
+    "description": "Ein Entenschnabeldinosaurier, der große Herden bildete."
+  },
+  {
+    "name": "Einiosaurus",
+    "description": "Ein Ceratopsier mit einem nach vorne gebogenen Horn."
+  },
+  {
+    "name": "Elaphrosaurus",
+    "description": "Ein leichter und schneller Dinosaurier aus Afrika."
+  },
+  {
+    "name": "Eoraptor",
+    "description": "Einer der ältesten bekannten Dinosaurier."
+  },
+  {
+    "name": "Eotyrannus",
+    "description": "Ein kleiner Verwandter des T. rex aus der frühen Kreidezeit."
+  },
+  {
+    "name": "Euoplocephalus",
+    "description": "Ein schwer gepanzerter Dinosaurier mit einem keulenartigen Schwanz."
+  },
+  {
+    "name": "Fukuiraptor",
+    "description": "Ein fleischfressender Dinosaurier aus Japan."
+  },
+  {
+    "name": "Gallimimus",
+    "description": "Ein Dinosaurier, der einem Strauß ähnelt und schnell rennen konnte."
+  },
+  {
+    "name": "Giganotosaurus",
+    "description": "Einer der größten fleischfressenden Dinosaurier, größer als T. rex."
+  },
+  {
+    "name": "Gigantoraptor",
+    "description": "Ein riesiger, vogelähnlicher Dinosaurier."
+  },
+  {
+    "name": "Gorgosaurus",
+    "description": "Ein Tyrannosaurier, der Nordamerika unsicher machte."
+  },
+  {
+    "name": "Gryposaurus",
+    "description": "Ein Entenschnabeldinosaurier mit einem gebogenen Nasenkamm."
+  },
+  {
+    "name": "Haplocanthosaurus",
+    "description": "Ein eher kleiner Sauropode aus dem Jura."
+  },
+  {
+    "name": "Herrerasaurus",
+    "description": "Einer der frühesten bekannten Raubdinosaurier."
+  },
+  {
+    "name": "Heterodontosaurus",
+    "description": "Ein kleiner Dinosaurier mit verschiedenen Arten von Zähnen."
+  },
+  {
+    "name": "Hylaeosaurus",
+    "description": "Einer der ersten entdeckten gepanzerten Dinosaurier."
+  },
+  {
+    "name": "Hypacrosaurus",
+    "description": "Ein Entenschnabeldinosaurier mit einem hohen Rücken."
+  },
+  {
+    "name": "Ichthyornis",
+    "description": "Ein vogelähnlicher Dinosaurier mit Zähnen."
+  },
+  {
+    "name": "Iguanodon",
+    "description": "Ein berühmter Dinosaurier mit einem Daumendorn."
+  },
+  {
+    "name": "Indosuchus",
+    "description": "Ein fleischfressender Dinosaurier aus Indien."
+  },
+  {
+    "name": "Irritator",
+    "description": "Ein Dinosaurier, dessen Fossilienfunde viele Fragen aufwerfen."
+  },
+  {
+    "name": "Jaxartosaurus",
+    "description": "Ein Hadrosaurier mit einem auffälligen Kopfkamm."
+  },
+  {
+    "name": "Jinfengopteryx",
+    "description": "Ein vogelähnlicher Dinosaurier mit gut erhaltenen Federn."
+  },
+  {
+    "name": "Juratyrant",
+    "description": "Ein kleiner Tyrannosaurier aus dem Jura."
+  },
+  {
+    "name": "Kentrosaurus",
+    "description": "Ein kleiner Stegosaurier mit stacheligen Schultern."
+  },
+  {
+    "name": "Kritosaurus",
+    "description": "Ein Hadrosaurier mit einem unregelmäßigen Schädel."
+  },
+  {
+    "name": "Lamaceratops",
+    "description": "Ein kleiner Ceratopsier aus der späten Kreidezeit."
+  },
+  {
+    "name": "Lamplughsaura",
+    "description": "Ein früher Dinosaurier aus Indien."
+  },
+  {
+    "name": "Lambeosaurus",
+    "description": "Ein Hadrosaurier mit einem hohlen Kamm auf dem Kopf."
+  },
+  {
+    "name": "Liaoningosaurus",
+    "description": "Ein kleiner gepanzerter Dinosaurier aus China."
+  },
+  {
+    "name": "Linhenykus",
+    "description": "Ein kleiner Alvarezsaurier mit einem reduzierten Arm."
+  },
+  {
+    "name": "Lophostropheus",
+    "description": "Ein früher Raubdinosaurier mit einem Kamm auf dem Kopf."
+  },
+  {
+    "name": "Lurdusaurus",
+    "description": "Ein ungewöhnlich schwer gebauter Iguanodontier."
+  },
+  {
+    "name": "Lycorhinus",
+    "description": "Ein kleiner pflanzenfressender Dinosaurier mit hundeähnlichen Zähnen."
+  },
+  {
+    "name": "Machairoceratops",
+    "description": "Ein Ceratopsier mit geschwungenen Hörnern."
+  },
+  {
+    "name": "Maiasaura",
+    "description": "Der Dinosaurier, der sich gut um seine Jungen kümmerte."
+  },
+  {
+    "name": "Majungasaurus",
+    "description": "Ein Raubdinosaurier mit einem kurzen, stämmigen Schädel."
+  },
+  {
+    "name": "Mapusaurus",
+    "description": "Ein großer Raubdinosaurier, der in Gruppen jagte."
+  },
+  {
+    "name": "Megalosaurus",
+    "description": "Der erste Dinosaurier, der wissenschaftlich beschrieben wurde."
+  },
+  {
+    "name": "Mei",
+    "description": "Ein kleiner Dinosaurier, der in einer schlafenden Position entdeckt wurde."
+  },
+  {
+    "name": "Megaraptor",
+    "description": "Ein Dinosaurier mit enormen Krallen an den Händen."
+  },
+  {
+    "name": "Microraptor",
+    "description": "Ein kleiner Dinosaurier mit vier Flügeln."
+  },
+  {
+    "name": "Minmi",
+    "description": "Ein kleiner, gepanzerter Dinosaurier aus Australien."
+  },
+  {
+    "name": "Monolophosaurus",
+    "description": "Ein Dinosaurier mit einem einzigen Kamm auf dem Kopf."
+  },
+  {
+    "name": "Mosasaurus",
+    "description": "Ein riesiges Meeresreptil, das keine Beute fürchtete."
+  },
+  {
+    "name": "Muttaburrasaurus",
+    "description": "Ein Dinosaurier aus Australien mit einer ungewöhnlichen Schnauze."
+  },
+  {
+    "name": "Nigersaurus",
+    "description": "Ein Sauropode mit einer ungewöhnlichen, breiten Schnauze."
+  },
+  {
+    "name": "Noasaurus",
+    "description": "Ein kleiner Raubdinosaurier mit einer ungewöhnlichen Klaue."
+  },
+  {
+    "name": "Nodosaurus",
+    "description": "Ein gepanzerter Dinosaurier ohne Schwanzkeule."
+  },
+  {
+    "name": "Nomingia",
+    "description": "Ein vogelähnlicher Dinosaurier mit einem federartigen Schwanzfächer."
+  },
+  {
+    "name": "Omeisaurus",
+    "description": "Ein Sauropode mit einem besonders langen Hals."
+  },
+  {
+    "name": "Ornitholestes",
+    "description": "Ein kleiner, agiler Raubdinosaurier."
+  },
+  {
+    "name": "Ornithomimus",
+    "description": "Ein schnell laufender Dinosaurier, der Straußen ähnelt."
+  },
+  {
+    "name": "Ouranosaurus",
+    "description": "Ein ungewöhnlicher Dinosaurier mit einem Segel auf dem Rücken."
+  },
+  {
+    "name": "Oviraptor",
+    "description": "Ein kleiner Dinosaurier, der möglicherweise Eier stahl."
+  },
+  {
+    "name": "Pachycephalosaurus",
+    "description": "Ein Dinosaurier mit einem extrem dicken Schädel."
+  },
+  {
+    "name": "Pachyrhinosaurus",
+    "description": "Ein Ceratopsier mit einer knöchernen Wölbung statt Hörnern."
+  },
+  {
+    "name": "Panoplosaurus",
+    "description": "Ein stark gepanzerter Dinosaurier ohne Schwanzkeule."
+  },
+  {
+    "name": "Parasaurolophus",
+    "description": "Ein Hadrosaurier mit einem langen, gebogenen Kopfkamm."
+  },
+  {
+    "name": "Patagotitan",
+    "description": "Einer der größten jemals entdeckten Dinosaurier."
+  },
+  {
+    "name": "Pelicanimimus",
+    "description": "Ein Dinosaurier mit einem pelikanartigen Beutel."
+  },
+  {
+    "name": "Pentaceratops",
+    "description": "Ein Ceratopsier mit fünf Hörnern."
+  },
+  {
+    "name": "Plateosaurus",
+    "description": "Ein früher Sauropodomorph, der auf zwei Beinen lief."
+  },
+  {
+    "name": "Plesiosaurus",
+    "description": "Ein Meeresreptil mit einem langen Hals."
+  },
+  {
+    "name": "Polacanthus",
+    "description": "Ein gepanzerter Dinosaurier mit einer knöchernen Rückenplatte."
+  },
+  {
+    "name": "Protoceratops",
+    "description": "Ein kleiner Ceratopsier, der in großen Herden lebte."
+  },
+  {
+    "name": "Pyroraptor",
+    "description": "Ein kleiner, flinker Dinosaurier mit feuerähnlicher Schnelligkeit."
+  },
+  {
+    "name": "Quaesitosaurus",
+    "description": "Ein Sauropode mit einem ungewöhnlich langen Hals."
+  },
+  {
+    "name": "Quetzalcoatlus",
+    "description": "Einer der größten fliegenden Reptilien, die jemals gelebt haben."
+  },
+  {
+    "name": "Rajasaurus",
+    "description": "Ein Raubdinosaurier aus Indien mit einem Einzelhorn."
+  },
+  {
+    "name": "Rapator",
+    "description": "Ein rätselhafter Raubdinosaurier aus Australien."
+  },
+  {
+    "name": "Rhabdodon",
+    "description": "Ein kleiner Dinosaurier aus der Kreidezeit mit robustem Körper."
+  },
+  {
+    "name": "Riojasaurus",
+    "description": "Ein früher Sauropodomorph aus Südamerika."
+  },
+  {
+    "name": "Rugops",
+    "description": "Ein Dinosaurier mit einer weichen, fast schwammigen Haut."
+  },
+  {
+    "name": "Saichania",
+    "description": "Ein gut gepanzerter Dinosaurier aus der Mongolei."
+  },
+  {
+    "name": "Saltasaurus",
+    "description": "Ein kleinerer Sauropode mit knöchernen Panzerplatten."
+  },
+  {
+    "name": "Sarcosuchus",
+    "description": "Ein riesiges Krokodil, das Dinosaurier fraß."
+  },
+  {
+    "name": "Saurolophus",
+    "description": "Ein Hadrosaurier mit einem stachelartigen Kopfkamm."
+  },
+  {
+    "name": "Scelidosaurus",
+    "description": "Einer der am besten erhaltenen Dinosaurier der frühen Jurazeit."
+  },
+  {
+    "name": "Segisaurus",
+    "description": "Ein kleiner Dinosaurier, der in Rudeln jagte."
+  },
+  {
+    "name": "Segnosaurus",
+    "description": "Ein ungewöhnlicher, pflanzenfressender Theropode."
+  },
+  {
+    "name": "Shantungosaurus",
+    "description": "Der größte bekannte Hadrosaurier."
+  },
+  {
+    "name": "Shunosaurus",
+    "description": "Ein Sauropode mit einer Keule am Schwanz."
+  },
+  {
+    "name": "Siamosaurus",
+    "description": "Ein fleischfressender Dinosaurier aus Thailand."
+  },
+  {
+    "name": "Sinoceratops",
+    "description": "Ein Ceratopsier aus China mit einem dekorativen Nackenschild."
+  },
+  {
+    "name": "Sinornithosaurus",
+    "description": "Ein gefiederter Dinosaurier mit vogelähnlichen Eigenschaften."
+  },
+  {
+    "name": "Spinosaurus",
+    "description": "Ein riesiger Raubdinosaurier mit einem Segel auf dem Rücken."
+  },
+  {
+    "name": "Stegosaurus",
+    "description": "Ein bekannter Dinosaurier mit Platten auf dem Rücken."
+  },
+  {
+    "name": "Stygimoloch",
+    "description": "Ein Dinosaurier mit einem stacheligen Schädel."
+  },
+  {
+    "name": "Suchomimus",
+    "description": "Ein fischfressender Dinosaurier mit einem krokodilartigen Maul."
+  },
+  {
+    "name": "Supersaurus",
+    "description": "Ein gigantischer Sauropode, der seine Umgebung überragte."
+  },
+  {
+    "name": "Tarbosaurus",
+    "description": "Ein asiatischer Verwandter des T. rex."
+  },
+  {
+    "name": "Tarchia",
+    "description": "Ein gut gepanzerter Dinosaurier mit einem massiven Schädel."
+  },
+  {
+    "name": "Telmatosaurus",
+    "description": "Ein früher Hadrosaurier mit primitiven Merkmalen."
+  },
+  {
+    "name": "Therizinosaurus",
+    "description": "Ein Dinosaurier mit gigantischen Klauen."
+  },
+  {
+    "name": "Torosaurus",
+    "description": "Ein Ceratopsier mit einem großen, fensterartigen Nackenschild."
+  },
+  {
+    "name": "Triceratops",
+    "description": "Einer der bekanntesten Dinosaurier mit drei Hörnern."
+  },
+  {
+    "name": "Troodon",
+    "description": "Ein kleiner, intelligenter Dinosaurier mit großen Augen."
+  },
+  {
+    "name": "Tsintaosaurus",
+    "description": "Ein Hadrosaurier mit einem hornartigen Kamm auf der Nase."
+  },
+  {
+    "name": "Tuojiangosaurus",
+    "description": "Ein Stegosaurier aus China mit doppelten Plattenreihen."
+  },
+  {
+    "name": "Tyrannotitan",
+    "description": "Ein massiver Raubdinosaurier aus Südamerika."
+  },
+  {
+    "name": "Tyrannosaurus",
+    "description": "Der legendäre Tyrannosaurus rex, König der Dinosaurier."
+  },
+  {
+    "name": "Uberabatitan",
+    "description": "Ein riesiger Titanosaurier aus Brasilien."
+  },
+  {
+    "name": "Utahraptor",
+    "description": "Ein großer Raubdinosaurier mit einer tödlichen Fußklaue."
+  },
+  {
+    "name": "Velociraptor",
+    "description": "Ein kleiner, schneller Jäger mit einer sichelförmigen Klaue."
+  },
+  {
+    "name": "Vulcanodon",
+    "description": "Ein früher Sauropode mit robustem Körperbau."
+  },
+  {
+    "name": "Wannanosaurus",
+    "description": "Einer der kleinsten Ceratopsier, die jemals entdeckt wurden."
+  },
+  {
+    "name": "Wuerhosaurus",
+    "description": "Ein später Stegosaurier mit flachen Rückenplatten."
+  },
+  {
+    "name": "Xenoceratops",
+    "description": "Ein Ceratopsier mit auffälligen Hörnern und Nackenschild."
+  },
+  {
+    "name": "Yingshanosaurus",
+    "description": "Ein Stegosaurier aus China mit einzigartigen Platten."
+  },
+  {
+    "name": "Yutyrannus",
+    "description": "Ein gefiederter Tyrannosaurier aus der frühen Kreidezeit."
+  },
+  {
+    "name": "Zalmoxes",
+    "description": "Ein kleiner, robuster Dinosaurier aus Europa."
+  },
+  {
+    "name": "Zuniceratops",
+    "description": "Ein früher Ceratopsier mit markanten Stirnhörnern."
+  }
+]
